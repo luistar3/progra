@@ -1,0 +1,60 @@
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe.config
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.exe
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.pdb
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.pdb
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Ejer01.resources
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.FrmPrincipal.resources
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Properties.Resources.resources
+C:\Users\DOCENTE\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csproj.GenerateResource.Cache
+F:\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe.config
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.exe
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.pdb
+F:\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe
+F:\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.pdb
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csprojResolveAssemblyReference.cache
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Ejer01.resources
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.FrmPrincipal.resources
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Properties.Resources.resources
+F:\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csproj.GenerateResource.Cache
+H:\SlnAsistencia54\PrjAsistencia\bin\Debug\PrjAsistencia.exe.config
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.exe
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.pdb
+H:\SlnAsistencia54\PrjAsistencia\bin\Debug\PrjAsistencia.exe
+H:\SlnAsistencia54\PrjAsistencia\bin\Debug\PrjAsistencia.pdb
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.csprojResolveAssemblyReference.cache
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.Ejer01.resources
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.FrmPrincipal.resources
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.Properties.Resources.resources
+H:\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.csproj.GenerateResource.Cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\bin\Debug\PrjAsistencia.exe.config
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\bin\Debug\PrjAsistencia.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\bin\Debug\PrjAsistencia.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.Ejer01.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.FrmPrincipal.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.Properties.Resources.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia54\PrjAsistencia\obj\Debug\PrjAsistencia.csproj.GenerateResource.Cache
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe.config
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.pdb
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Ejer01.resources
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.FrmPrincipal.resources
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Properties.Resources.resources
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csproj.GenerateResource.Cache
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.exe
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.pdb
+C:\Users\BEPIS\Documents\Visual Studio 2013\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe.config
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.exe
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\bin\Debug\PrjAsistencia.pdb
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csprojResolveAssemblyReference.cache
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Ejer01.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.FrmPrincipal.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.Properties.Resources.resources
+C:\Users\home\Documents\Visual Studio 2012\Projects\SlnAsistencia\PrjAsistencia\obj\Debug\PrjAsistencia.csproj.GenerateResource.Cache
